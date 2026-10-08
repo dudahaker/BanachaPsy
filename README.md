@@ -48,7 +48,6 @@
             <div class="question">
                 2. Готовы ли вы доносить,и как далеко вы готовы зайти?
             </div>
-            <p>TEST TEXT</p>
             <div class="answer">
                 Развёрнутый ответ:
             </div>
@@ -67,7 +66,6 @@
             <div class="question">
                 5. Сколько и по каким темам нудно делать донос?
             </div>
-            <p>test text</p>
             <div class="answer">
                 Развёрнутый ответ:
             </div>
@@ -77,8 +75,4 @@
             <p>
                 ТГ:
                 <span class="telegram">@pasztetduda</span>
-        </section>
-    </div>
-</body>
-</html>
-
+                
