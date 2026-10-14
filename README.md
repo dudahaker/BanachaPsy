@@ -75,4 +75,4 @@
             <p>
                 ТГ:
                 <span class="telegram">@pasztetduda</span>
-                /p https://t.me/pasztetduda </p>
+              https://t.me/pasztetduda </p>
